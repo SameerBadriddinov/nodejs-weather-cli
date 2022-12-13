@@ -1,0 +1,15 @@
+{
+	"name": "weather-cli",
+	"version": "1.0.0",
+	"description": "weather-cli project",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"author": "Samar Badriddinov",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}
