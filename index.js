@@ -27,7 +27,7 @@ const startCLI = () => {
 	if (args.t) {
 		return saveToken(args.t)
 	}
-	getWeather('London')
+	getWeather('Uzbekistan')
 }
 
 startCLI()
